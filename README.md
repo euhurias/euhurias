@@ -17,11 +17,11 @@
   
 <div>
   
-  <a href="https://instagram.com/huriasdesign" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/huriaslopes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:hurias52@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-hurias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  [Snake animation](https://github.com/euhurias/euhurias/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/euhurias/euhurias/blob/output/github-contribution-grid-snake.svg)
   
 </div
   
