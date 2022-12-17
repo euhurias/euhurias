@@ -23,5 +23,6 @@
   
   ![Snake animation](https://github.com/euhurias/euhurias/blob/output/github-contribution-grid-snake.svg)
   
+  
 </div
   
