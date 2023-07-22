@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone`👋, I'm Hurias Lopes</h1>
+<h1 align="center">Hi Everyone`👋, I'm Fernando Hurias Lopes</h1>
 <h3 align="center">Matemático com habilidade em Desenvolvimento Backend e Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
