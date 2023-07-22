@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fernando Hurias Lopes</h1>
 <h3 align="center">Matemático com habilidade em Desenvolvimento Backend e Data Science.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=euhurias&label=Profile%20views&color=0e75b6&style=flat" alt="euhurias" /> </p>
+
 - 🔭 I’m currently working on [Projetos CSharp](https://github.com/euhurias/ProjetosCsharp)
 
 - 🌱 I’m currently learning **Testes & dotNet & Machine Learning & Data Science**
@@ -24,5 +26,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/hurias"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/hurias" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhurias&show_icons=true&locale=en&layout=compact" alt="euhurias" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=euhurias&show_icons=true&locale=en" alt="euhurias" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euhurias&" alt="euhurias" /></p>
 
   
