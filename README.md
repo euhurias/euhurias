@@ -27,7 +27,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=euhurias&show_icons=true&locale=en" alt="euhurias" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=euhurias&" alt="euhurias" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=euhurias&" alt="euhurias" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=euhurias&show_icons=true&locale=en&layout=compact" alt="euhurias" />
 
 
