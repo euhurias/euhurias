@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euhurias&label=Profile%20views&color=0e75b6&style=flat" alt="euhurias" /> </p>
 
-- 🔭 I’m currently working on [Projetos CSharp](https://github.com/euhurias/Projeto-SistemaContatos)
+- 🔭 I’m currently working on [Projeto-SistemaContatos](https://github.com/euhurias/Projeto-SistemaContatos)
 
 - 🌱 I’m currently learning **Testes & dotNet & Machine Learning & Data Science**
 
 - 🔭 I’m currently working on [Projetos Data Science](https://github.com/euhurias/DataScience)
 
-- 🤝 I’m looking to collaborate on [ProjetosEmCSharp](https://github.com/euhurias/Projeto-SistemaContatos)
+- 🤝 I’m looking to collaborate on [Projeto-SistemaContatosp](https://github.com/euhurias/Projeto-SistemaContatos)
 
-- 🤝 I’m looking to collaborate on [ProjetosEmCSharp](https://github.com/euhurias/Projeto-Financeiro)
+- 🤝 I’m looking to collaborate on [Projeto-Financeiro](https://github.com/euhurias/Projeto-Financeiro)
 
 - 📄 Know about my experiences [Teste de software & Desenvolvedor C# (dotNet)](Teste de software & Desenvolvedor C# (dotNet))
 
