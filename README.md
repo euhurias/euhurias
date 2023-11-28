@@ -1,20 +1,19 @@
 <h1 align="center">Hi Everyone`👋, I'm Fernando Hurias Lopes</h1>
-<h3 align="center">Matemático com habilidade em Desenvolvimento Backend e Data Science.</h3>
+<h3 align="center">Matemático com habilidade em Desenvolvimento Backend e Data Science e Inteligência Artificial .</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euhurias&label=Profile%20views&color=0e75b6&style=flat" alt="euhurias" /> </p>
 
-- 🔭 I’m currently working on [Projeto-SistemaContatos](https://github.com/euhurias/Projeto-SistemaContatos)
+  - 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 🌱 I’m currently learning **Testes & dotNet & Machine Learning & Data Science**
+  - 🔭 I’m currently working on [Projetos de Data Science](https://github.com/euhurias/Data_Science)
 
-- 🔭 I’m currently working on [Projetos Data Science](https://github.com/euhurias/DataScience)
 
-- 🤝 I’m looking to collaborate on [Projeto-SistemaContatosp](https://github.com/euhurias/Projeto-SistemaContatos)
+  - 🔭 I’m currently working on [Projetos Machine Learning](https://github.com/euhurias/Machine_Learning)
 
-- 🤝 I’m looking to collaborate on [Projeto-Financeiro](https://github.com/euhurias/Projeto-Financeiro)
+  - 🤝 I’m looking to collaborate on [Projeto-Financeiro](https://github.com/euhurias/Projeto-Financeiro)
 
-- 📄 Know about my experiences [Teste de software & Desenvolvedor C# (dotNet)](Teste de software & Desenvolvedor C# (dotNet))
+  - 📄 Know about my experiences [Teste de software & Desenvolvedor C# (dotNet)](Teste de software & Desenvolvedor C# (dotNet))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
