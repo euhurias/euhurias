@@ -4,16 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=euhurias&label=Profile%20views&color=0e75b6&style=flat" alt="euhurias" /> </p>
 
-  - 🌱 I’m currently learning **Machine Learning & Data Science**
+  - 🌱 I’m currently learning **Machine Learning - Deep Learning & Data Science**
 
   - 🔭 I’m currently working on [Projetos de Data Science](https://github.com/euhurias/Data_Science)
 
-
-  - 🔭 I’m currently working on [Projetos Machine Learning](https://github.com/euhurias/Machine_Learning)
-
-  - 🤝 I’m looking to collaborate on [Projeto-Financeiro](https://github.com/euhurias/Projeto-Financeiro)
-
-  - 📄 Know about my experiences [Teste de software & Desenvolvedor C# (dotNet)](Teste de software & Desenvolvedor C# (dotNet))
+  - 📄 Know about my experiences [Teste de software & Desenvolvedor C# (dotNet)](Teste de software & Desenvolvedor C# (dotNet), Python e Data Science )
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
